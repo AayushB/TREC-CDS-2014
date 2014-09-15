@@ -1,0 +1,66 @@
+Processing 00000000.tx.1: 72-year-old man with calf pain while walking uphill. 
+
+Phrase: "72-year-old man with calf pain"
+Meta Mapping (710):
+   581   /year (per year) [Temporal Concept]
+   581   Old [Temporal Concept]
+   748   man (Male gender) [Finding]
+   612   Calf pain (Pain in calf) [Sign or Symptom]
+
+Phrase: "while"
+
+Phrase: "walking"
+Meta Mapping (1000):
+  1000   Walking (Walking (activity)) [Daily or Recreational Activity]
+
+Phrase: "uphill."
+Processing 00000000.tx.2: History of ischemic heart disease and worsening hypertension despite medication compliance. 
+
+Phrase: "History of ischemic heart disease"
+Meta Mapping (858):
+   816   History of diseases [Finding]
+   593   Ischaemic (Ischemic) [Functional Concept]
+   593   Heart [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+
+Phrase: "worsening hypertension despite medication compliance."
+Meta Mapping (752):
+   593   Worsening (Worse) [Qualitative Concept]
+   760   Hypertension (Hypertensive disease) [Disease or Syndrome]
+   640   Medication compliance (Adherence To Medication Regime) [Finding]
+Meta Mapping (752):
+   593   Worsening (Worse) [Qualitative Concept]
+   797   hypertension medication (hypertensive medication) [Pharmacologic Substance]
+   593   Compliance (Compliance behavior) [Individual Behavior]
+Processing 00000000.tx.3: On physical exam he has a right carotid bruit and his lower extremities are cool, with diminished dorsalis pedis pulses.
+
+Phrase: "On physical exam"
+Meta Mapping (1000):
+  1000   Physical Exam (Physical Exam Domain) [Idea or Concept]
+
+Phrase: "he"
+
+Phrase: "has"
+
+Phrase: "a right carotid bruit"
+Meta Mapping (901):
+   660   Right [Spatial Concept]
+   901   Carotid bruit [Finding]
+
+Phrase: "and"
+
+Phrase: "his lower extremities"
+Meta Mapping (1000):
+  1000   Extremities, Lower (Lower Extremity) [Body Location or Region]
+
+Phrase: "are"
+
+Phrase: "cool,"
+Meta Mapping (1000):
+  1000   Cool [Qualitative Concept]
+
+Phrase: "with diminished dorsalis pedis pulses."
+Meta Mapping (908):
+   645   Diminished (Decreased) [Quantitative Concept]
+   912   Dorsalis pedis pulse [Organ or Tissue Function]

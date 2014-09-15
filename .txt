@@ -1,0 +1,66 @@
+#filreq(
+#syn(
+#1(pressing pain).abstract
+#1(pressing pain).body
+#1(burning chest).abstract
+#1(burning chest).body
+pain.abstract
+pain.body
+nausea.abstract
+nausea.body
+diaphoresis.abstract
+diaphoresis.body
+dyspnea.abstract
+dyspnea.body
+pain.abstract
+pain.body
+obesity.abstract
+obesity.body
+)
+#weight(
+7.0 #uw5(pressing pain).abstract
+7.0 #uw5(pressing pain).body
+7.0 #uw5(burning chest).abstract
+7.0 #uw5(burning chest).body
+7.0 #uw5(chest burning).abstract
+7.0 #uw5(chest burning).body
+7.0 pain.abstract
+7.0 pain.body
+3.0 #uw5(suffering, physical).abstract
+3.0 #uw5(suffering, physical).body
+3.0 ache.abstract
+3.0 ache.body
+5.0 back.abstract
+5.0 back.body
+7.0 nausea.abstract
+7.0 nausea.body
+7.0 diaphoresis.abstract
+7.0 diaphoresis.body
+7.0 #uw5(increased sweating).abstract
+7.0 #uw5(increased sweating).body
+7.0 dyspnea.abstract
+7.0 dyspnea.body
+3.0 #uw5(shortness of breath).abstract
+3.0 #uw5(shortness of breath).body
+3.0 inspiration.abstract
+3.0 inspiration.body
+7.0 pain.abstract
+7.0 pain.body
+3.0 #uw5(suffering, physical).abstract
+3.0 #uw5(suffering, physical).body
+3.0 ache.abstract
+3.0 ache.body
+7.0 hypertension.abstract
+7.0 hypertension.body
+3.5 #uw5(hypertension adverse event).abstract
+3.5 #uw5(hypertension adverse event).body
+7.0 obesity.abstract
+7.0 obesity.body
+7.0 heart.abstract
+7.0 heart.body
+7.0 ekg.abstract
+7.0 ekg.body
+3.5 electrocardiogram.abstract
+3.5 electrocardiogram.body
+)
+)
